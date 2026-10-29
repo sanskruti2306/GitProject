@@ -1,1 +1,3 @@
-hello this is my first code in git
+This is the second version of the git
+This is the second version of the git
+This is the second version of the git
